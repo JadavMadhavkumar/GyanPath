@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "backend-dev-guidelines": {
+      "source": "langfuse/langfuse",
+      "sourceType": "github",
+      "computedHash": "78f8443089548a20284782c93d122496a1074b59d8d48bb58354182dfa2f2712"
+    },
+    "backend-patterns": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "edfa200927d3d6c02c4d48a4fe934ac4dcada590c1edab42e34134c3ef53e05a"
+    },
+    "backend-security-coder": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "b62655410aaea528433b7adda9f8fb971a5a7d7a6db3a365474c52061a703ca5"
+    }
+  }
+}
